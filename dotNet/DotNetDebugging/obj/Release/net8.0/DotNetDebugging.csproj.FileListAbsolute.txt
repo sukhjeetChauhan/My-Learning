@@ -1,0 +1,14 @@
+/home/sukhjeet/development/myLearning/DotNetDebugging/bin/Release/net8.0/DotNetDebugging
+/home/sukhjeet/development/myLearning/DotNetDebugging/bin/Release/net8.0/DotNetDebugging.deps.json
+/home/sukhjeet/development/myLearning/DotNetDebugging/bin/Release/net8.0/DotNetDebugging.runtimeconfig.json
+/home/sukhjeet/development/myLearning/DotNetDebugging/bin/Release/net8.0/DotNetDebugging.dll
+/home/sukhjeet/development/myLearning/DotNetDebugging/bin/Release/net8.0/DotNetDebugging.pdb
+/home/sukhjeet/development/myLearning/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/sukhjeet/development/myLearning/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.AssemblyInfoInputs.cache
+/home/sukhjeet/development/myLearning/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.AssemblyInfo.cs
+/home/sukhjeet/development/myLearning/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/home/sukhjeet/development/myLearning/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.dll
+/home/sukhjeet/development/myLearning/DotNetDebugging/obj/Release/net8.0/refint/DotNetDebugging.dll
+/home/sukhjeet/development/myLearning/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.pdb
+/home/sukhjeet/development/myLearning/DotNetDebugging/obj/Release/net8.0/DotNetDebugging.genruntimeconfig.cache
+/home/sukhjeet/development/myLearning/DotNetDebugging/obj/Release/net8.0/ref/DotNetDebugging.dll
