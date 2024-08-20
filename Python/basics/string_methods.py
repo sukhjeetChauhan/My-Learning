@@ -52,9 +52,17 @@ print('#'* 30)
 
 # Write a Python script that tests if a string is a palindrome.
 
-magic_str = input('Enter your string here: ')
-str_length = len(magic_str)
-mid_index = str_length // 2
-reverse_str = magic_str[mid_index:][::-1]
-print(magic_str[:mid_index + 1] == reverse_str)
+# magic_str = input('Enter your string here: ')
+# str_length = len(magic_str)
+# mid_index = str_length // 2
+# reverse_str = magic_str[mid_index:][::-1]
+# print(magic_str[:mid_index + 1] == reverse_str)
 
+print('#' * 30)
+# ////////////////////////////////////////////////////////////////////
+n = 12384756982
+n_comma = f'{n:,}'
+
+print(n_comma)
+
+# print(n_comma.replace(',', '.'))
