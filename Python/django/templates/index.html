@@ -1,6 +1,11 @@
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'main.css' %}" />
+
 <h1>Hello Django World,and welcome {{name}}</h1>
 
-<form method="">
-  <textarea name="text" type="text" placeholder="Enter here"></textarea>
+<form method="post" action="birth-year">
+  {%csrf_token%}
+  <textarea name="age" type="text" placeholder="Enter here"></textarea>
   <button type="submit">Submit</button>
 </form>
