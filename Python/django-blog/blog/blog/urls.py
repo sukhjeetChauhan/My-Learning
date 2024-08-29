@@ -1,5 +1,5 @@
 """
-URL configuration for mydjango project.
+URL configuration for blog project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.1/topics/http/urls/
@@ -18,6 +18,6 @@ from django.contrib import admin
 from django.urls import path,include
 
 urlpatterns = [
-  path("", include('myapp.urls')),
     path("admin/", admin.site.urls),
+    path("", include('posts.urls'))
 ]
