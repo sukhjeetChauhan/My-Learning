@@ -18,3 +18,6 @@ def birth_year(request):
     context = {'year': year_of_birth,
               "data": details[0] }
     return render(request,'birth-year.html',context)
+
+def register(request):
+    return render(request,'register.html')
